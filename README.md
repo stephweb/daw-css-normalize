@@ -9,7 +9,7 @@ DAW CSS Normalize is a Open Source CSS library.
 
 Package developed by:
 [Développeur web](https://www.devandweb.fr)
-[![Développeur Laravel](https://www.devandweb.fr/medias/website/developpeur-web.png)](https://www.devandweb.fr)
+[![Développeur web Freelance](https://www.devandweb.fr/medias/website/developpeur-web.png)](https://www.devandweb.fr)
 
 
 
