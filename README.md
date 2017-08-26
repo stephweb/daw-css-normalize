@@ -20,7 +20,7 @@ Package developed by:
 
 ### Bugs
 
-If you discover a bug within DAW CSS Normalize, please send a message to Steph. Thank you.
+If you discover a bug within DAW CSS Normalize, please send a message to Stephen. Thank you.
 All bugs will be promptly addressed.
 
 
